@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223015037342",
+    "project_id": "hatimikra",
+    "storage_bucket": "hatimikra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223015037342:android:8940a86f08b5f2c2958e8f",
+        "android_client_info": {
+          "package_name": "com.example.hatim_ikra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223015037342-qu0qtpldfkapvltkte7hfdolek9n33sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNcwIXmDzUQyQTbqZGf9r7XHvumJ5gbKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223015037342-qu0qtpldfkapvltkte7hfdolek9n33sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
